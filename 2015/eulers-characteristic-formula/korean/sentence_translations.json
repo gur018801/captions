@@ -1,7 +1,7 @@
 [
  {
   "input": "In my video on the circle division problem, I referenced Euler's characteristic formula, and here I would like to share a particularly nice proof of this fact. ",
-  "translatedText": "원 분할 문제에 대한 내 비디오에서 나는 오일러의 특성 공식을 참조했는데, 여기서는 이 사실에 대한 특히 좋은 증거를 공유하고 싶습니다. ",
+  "translatedText": "원 분할 문제를 다룬 제 비디오에서 저는 오일러의 다면체 공식을 언급했었는데, 이 영상에서는 그 공식의 아주 근사한 증명을 공유하고자 합니다. ",
   "model": "nmt",
   "time_range": [
    3.3000000000000007,
@@ -10,7 +10,7 @@
  },
  {
   "input": "It's very different from the inductive proof, typically given, but I'm not trying to argue that this is somehow better or easier to understand than other proofs. ",
-  "translatedText": "이것은 일반적으로 주어지는 귀납적 증명과는 매우 다르지만 이것이 다른 증명보다 이해하기 더 좋고 더 쉽다고 주장하려는 것은 아닙니다. ",
+  "translatedText": "이 증명은 일반적으로 알려진 귀납적 증명과는 매우 다르지만, 이 증명이 다른 증명보다 더 이해하기 쉽거나 더 좋다고 말하려는 건 아닙니다. ",
   "model": "nmt",
   "time_range": [
    12.58,
@@ -19,7 +19,7 @@
  },
  {
   "input": "Instead, I chose this topic to illustrate one example of the incredible notion of duality, and how it can produce wonderfully elegant math. ",
-  "translatedText": "대신 나는 이원성의 놀라운 개념과 그것이 어떻게 놀라울 정도로 우아한 수학을 만들어낼 수 있는지에 대한 한 가지 예를 설명하기 위해 이 주제를 선택했습니다. ",
+  "translatedText": "그보다 저는 쌍대성이라는 엄청난 개념과 이것이 어떻게 놀라울 정도로 우아한 수학을 만들어내는지에 대한 좋은 예시를 설명하기 위해 이 주제를 선택한 것입니다. ",
   "model": "nmt",
   "time_range": [
    20.62,
@@ -28,7 +28,7 @@
  },
  {
   "input": "First, let's go over what the theorem states. ",
-  "translatedText": "먼저, 정리가 무엇을 말하는지 살펴보겠습니다. ",
+  "translatedText": "먼저, 이 정리가 무엇을 말하는지 살펴보겠습니다. ",
   "model": "nmt",
   "time_range": [
    28.9,
@@ -37,7 +37,7 @@
  },
  {
   "input": "If you draw some dots and some lines between them, that is, a graph, and if none of these lines intersect, which is to say you have a planar graph, and if your drawing is connected, then Euler's formula tells us that the number of dots minus the number of lines plus the number of regions these lines cut the plane into, including that outer region, will always be 2. ",
-  "translatedText": "몇 개의 점과 그 사이에 몇 개의 선을 그리는 경우, 즉 그래프이고 이 선 중 어느 것도 교차하지 않는 경우, 즉 평면 그래프가 있고 그림이 연결되어 있으면 오일러의 공식은 다음과 같은 숫자를 알려줍니다. 점 수에서 선 수를 뺀 값과 외부 영역을 포함하여 이 선이 평면을 자르는 영역 수를 더하면 항상 2가 됩니다. ",
+  "translatedText": "몇 개의 점과 그 점들 사이를 잇는 몇 개의 선을 그리는 경우, 즉 그래프를 그리는 경우에, 이러한 선들 중 어느 것도 교차하지 않는 경우, 즉 평면 그래프가 있고 그래프에 끊어진 부분이 없을 때 오일러의 공식에 따르면 점의 개수에서 선의 개수를 뺀 값에 외부 영역을 포함해 이 선들이 평면을 나눈 영역의 개수를 더하면 항상 2가 됩니다. ",
   "model": "nmt",
   "time_range": [
    31.76,
@@ -46,7 +46,7 @@
  },
  {
   "input": "Because Euler was originally talking about 3D polyhedra when he found this formula, which was only later reframed in terms of planar graphs, instead of saying dots, we say vertices, instead of saying lines, we say edges, and instead of saying regions, we say faces. ",
-  "translatedText": "왜냐하면 오일러가 이 공식을 발견했을 때 원래 3D 다면체에 대해 이야기하고 있었기 때문입니다. 이 공식은 나중에 평면 그래프로 재구성되어 점 대신 정점, 선 대신 모서리라고 말하고 영역 대신에 얼굴을 말해요. ",
+  "translatedText": "오일러가 이 공식을 발견했을 당시에는 이 공식이 3차원 다면체에 대해 설명하는 것이었고, 나중에서야 이 공식이 평면 그래프에 대해 재구성된 것이기 때문에 점 대신 꼭짓점, 선 대신 모서리, 영역 대신에 면이라는 용어를 사용합니다. ",
   "model": "nmt",
   "time_range": [
    54.28,
@@ -55,7 +55,7 @@
  },
  {
   "input": "Hence, we write Euler's discovery as V minus E plus F equals 2. ",
-  "translatedText": "따라서 우리는 오일러의 발견을 V 빼기 E 더하기 F = 2라고 씁니다. ",
+  "translatedText": "그렇기 때문에 우리는 오일러의 발견을 V - E + F = 2라고 씁니다. ",
   "model": "nmt",
   "time_range": [
    69.32,
@@ -64,7 +64,7 @@
  },
  {
   "input": "Before describing the proof, I need to go through three pieces of graph theory terminology. ",
-  "translatedText": "증명을 설명하기 전에 세 가지 그래프 이론 용어를 살펴보겠습니다. ",
+  "translatedText": "증명을 설명하기 위해서 그래프 이론에서 사용되는 세 가지 용어를 먼저 설명하겠습니다. ",
   "model": "nmt",
   "time_range": [
    74.74,
@@ -73,7 +73,7 @@
  },
  {
   "input": "Cycles, spanning trees, and dual graphs. ",
-  "translatedText": "순환, 스패닝 트리, 이중 그래프. ",
+  "translatedText": "순환, 신장 트리, 그리고 쌍대 그래프입니다. ",
   "model": "nmt",
   "time_range": [
    79.5,
@@ -82,7 +82,7 @@
  },
  {
   "input": "If you are already familiar with some of these topics and don't care to see how I describe them, feel free to click the appropriate annotation and skip ahead. ",
-  "translatedText": "이러한 주제 중 일부에 이미 익숙하고 제가 설명하는 방식이 궁금하시다면 적절한 주석을 클릭하고 건너뛰셔도 됩니다. ",
+  "translatedText": "이 용어들 중 몇몇에 이미 익숙하고 제가 어떻게 설명하는지 궁금하지 않으시다면 특수효과를 클릭해 앞으로 건너뛰셔도 좋습니다. ",
   "model": "nmt",
   "time_range": [
    82.56,
@@ -91,7 +91,7 @@
  },
  {
   "input": "Imagine a tiny creature sitting on one of the vertices. ",
-  "translatedText": "정점 중 하나에 작은 생물이 앉아 있다고 상상해보십시오. ",
+  "translatedText": "꼭짓점 중 하나에 작은 생물이 앉아 있다고 상상해봅시다. ",
   "model": "nmt",
   "time_range": [
    90.64,
@@ -100,7 +100,7 @@
  },
  {
   "input": "Let's name him Randolph. ",
-  "translatedText": "그 사람의 이름을 랜돌프라고 짓자. ",
+  "translatedText": "그 생물의 이름을 랜돌프라고 합시다. ",
   "model": "nmt",
   "time_range": [
    93.72,
@@ -109,7 +109,7 @@
  },
  {
   "input": "If we think of edges as something Randolph might travel along from one vertex to the next, we can sensibly talk about a path as being a sequence of edges that Randolph could travel along, where we don't allow him to backtrack on the same edge. ",
-  "translatedText": "Randolph가 한 꼭지점에서 다음 꼭지점으로 이동할 수 있는 것으로 가장자리를 생각한다면, 경로는 Randolph가 따라 이동할 수 있는 일련의 가장자리이며 동일한 가장자리에서 되돌아가는 것을 허용하지 않는 것으로 합리적으로 말할 수 있습니다. . ",
+  "translatedText": "랜돌프가 모서리를 따라 한 꼭짓점에서 다른 꼭짓점으로 이동할 수 있다고 하면, 랜돌프가 이동할 수 있는 일련의 모서리들을 '경로'라고 표현할 수 있고, 같은 모서리를 통해 다시 이동하는 것은 불가능하다고 합시다. ",
   "model": "nmt",
   "time_range": [
    95.28,
@@ -118,7 +118,7 @@
  },
  {
   "input": "A cycle is simply a path that ends on the same vertex where it begins. ",
-  "translatedText": "순환은 단순히 시작되는 동일한 꼭지점에서 끝나는 경로입니다. ",
+  "translatedText": "순환은 단순히 시작한 꼭짓점에서 끝나는 경로입니다. ",
   "model": "nmt",
   "time_range": [
    109.12,
@@ -127,7 +127,7 @@
  },
  {
   "input": "You might be able to guess how cycles will be important for our purposes, since they will always enclose a set of faces. ",
-  "translatedText": "주기는 항상 일련의 면을 포함하므로 우리의 목적에 주기가 얼마나 중요한지 짐작할 수 있습니다. ",
+  "translatedText": "순환은 항상 면들의 집합을 둘러싸기 때문에, 순환이 우리의 목적에 얼마나 중요한지 짐작하실 수 있을 겁니다. ",
   "model": "nmt",
   "time_range": [
    114.04,
@@ -136,7 +136,7 @@
  },
  {
   "input": "Now imagine that Randolph wants access to all other vertices, but edges are expensive, so he'll only buy access to an edge if it gives him a path to an untouched vertex. ",
-  "translatedText": "이제 Randolph가 다른 모든 정점에 액세스하기를 원하지만 가장자리는 비용이 많이 들기 때문에 손대지 않은 정점에 대한 경로를 제공하는 경우에만 가장자리에 대한 액세스를 구매할 것이라고 상상해 보십시오. ",
+  "translatedText": "이제 랜돌프는 모든 꼭짓점에 가고 싶어하지만, 모서리는 비용이 많이 든다고 해봅시다. 그렇기 때문에, 랜돌프는 아직 가보지 못한 꼭짓점으로 향하는 길을 열어주는 경우에만 모서리를 산다고 상상해 봅시다. ",
   "model": "nmt",
   "time_range": [
    121.1,
@@ -145,7 +145,7 @@
  },
  {
   "input": "This frugality will leave him with a set of edges without any cycles, since the edge finishing off a cycle would always be unnecessary. ",
-  "translatedText": "이러한 절약으로 인해 순환이 없는 모서리 세트가 남게 됩니다. 왜냐하면 순환을 마무리하는 모서리는 항상 불필요하기 때문입니다. ",
+  "translatedText": "이런 절약은 순환이 없는 모서리의 집합을 남기게 됩니다. 왜냐하면, 순환을 완성하는 모서리는 항상 불필요하기 때문입니다. ",
   "model": "nmt",
   "time_range": [
    131.42,
@@ -154,7 +154,7 @@
  },
  {
   "input": "In general, a connected graph without cycles is called a tree, so named because we can move things around and make it look like a system of branches, and any tree inside a graph which touches all the vertices is called a spanning tree. ",
-  "translatedText": "일반적으로 순환이 없는 연결된 그래프를 트리라고 합니다. 사물을 이동하여 가지 시스템처럼 보이게 할 수 있기 때문에 이러한 이름이 붙었습니다. 그래프 내부의 모든 정점에 닿는 모든 트리를 스패닝 트리라고 합니다. ",
+  "translatedText": "일반적으로 순환이 없는 연결된 그래프를 트리라고 합니다. 그래프를 약간 조정하면 마치 나뭇가지들처럼 보이게 만들 수 있기 때문에 이러한 이름이 붙었습니다. 또한, 그래프에 포함되면서 그 그래프의 모든 꼭짓점에 닿는 트리들을 신장 트리라고 합니다. ",
   "model": "nmt",
   "time_range": [
    140.8,
@@ -163,7 +163,7 @@
  },
  {
   "input": "Before defining the dual graph, which runs the risk of being confusing, it's important to remember why people actually care about graphs in the first place. ",
-  "translatedText": "혼란스러울 위험이 있는 이중 그래프를 정의하기 전에 먼저 사람들이 실제로 그래프에 관심을 갖는 이유를 기억하는 것이 중요합니다. ",
+  "translatedText": "쌍대 그래프의 정의는 혼동의 여지가 있기 때문에, 정의를 하기 전에 먼저 사람들이 애초에 왜 그래프에 관심을 갖는지를 기억하는 것이 중요합니다. ",
   "model": "nmt",
   "time_range": [
    155.74,
@@ -172,7 +172,7 @@
  },
  {
   "input": "I was actually lying earlier when I said a graph is a set of dots and lines. ",
-  "translatedText": "그래프는 점과 선의 집합이라고 말했을 때 사실 거짓말을 했습니다. ",
+  "translatedText": "사실 제가 앞에서 그래프가 점과 선들의 모임이라고 설명한 것은 거짓말입니다. ",
   "model": "nmt",
   "time_range": [
    163.82,
@@ -181,7 +181,7 @@
  },
  {
   "input": "Really, it's a set of anything with any notion of connection, but we typically represent those things with dots and those connections with lines. ",
-  "translatedText": "실제로 그것은 연결이라는 개념이 있는 모든 것의 집합이지만 일반적으로 우리는 그러한 것을 점으로 나타내고 그러한 연결을 선으로 나타냅니다. ",
+  "translatedText": "사실은, 그래프는 연결이라는 개념이 있는 모든 것들의 집합이지만, 일반적으로 우리는 그러한 것을 점으로 나타내고 그것들의 연결을 선으로 나타내는 것입니다. ",
   "model": "nmt",
   "time_range": [
    167.66,
@@ -190,7 +190,7 @@
  },
  {
   "input": "For instance, Facebook stores an enormous graph where vertices are accounts and edges are friendships. ",
-  "translatedText": "예를 들어 Facebook은 정점이 계정이고 가장자리가 우정인 거대한 그래프를 저장합니다. ",
+  "translatedText": "예를 들어, 페이스북은 꼭짓점이 계정들이고 모서리가 친구 관계인 거대한 그래프를 저장하고 있습니다. ",
   "model": "nmt",
   "time_range": [
    175.72,
